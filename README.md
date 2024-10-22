@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Udayagiri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvardhanu&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvardhanu" /> </p>
-
 - 🔭 I’m currently working on [Take Care](https://takecare-omega.vercel.app/)
 
 - 🌱 I’m currently learning **DSA and DEV**
